@@ -30,6 +30,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width: 100%;
 }
 
 nav ul {
@@ -63,8 +64,14 @@ nav a:hover {
     height: auto;
 }
 
+#table-in-restaurant img {
+    width: 60%;
+    height: auto;
+}
+
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
