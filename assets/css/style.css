@@ -15,6 +15,7 @@ h3,
 p,
 li {
     color: green;
+    text-align: center;
 }
 
 img {
@@ -84,6 +85,11 @@ nav a:hover {
     font-size: 2em;
     padding: 10px;
     margin: 5px;
+}
+
+i {
+    padding: 10px;
+    margin: 2px;
 }
 
 table {
